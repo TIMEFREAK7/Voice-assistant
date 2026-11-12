@@ -1,0 +1,51 @@
+id,kind,expected,heard,usable,ms
+1,open,open chrome,Open Chrome,True,575
+2,open,open excel,Open Excel,True,26
+3,open,open word,Open Word,True,27
+4,open,launch whatsapp,Launch WhatsApp,True,30
+5,open,open primavera,Open Primavera,True,33
+6,open,start notepad,Start notepad.,True,32
+7,open,open file explorer,Open File Explorer,True,40
+8,open,open outlook,Open Outlook,True,33
+9,open,can you open spotify,Can you open Spotify?,True,44
+10,open,open the calculator,Open the calculator.,True,61
+11,open,open settings,Open settings,True,26
+12,open,open teams,Open Teams,True,24
+13,open,open powerpoint,Open PowerPoint,True,56
+14,open,launch autocad,Launch AutoCAD,True,47
+15,open,open google maps,Open Google Maps.,True,38
+16,remind,remind me to call the contractor at 5,Remind me to call the contractor at 5.,True,85
+17,remind,remind me to send the invoice tomorrow at 10 am,Remind me to send the invoice tomorrow at 10 a.m.,True,108
+18,remind,set a reminder for next friday at 5 pm,Set a reminder for next Friday at 5 p.m.,True,90
+19,remind,remind me in 20 minutes to check the oven,Remind me in 20 minutes to check the oven.,True,66
+20,remind,remind me to pay the electricity bill on the 15th,Remind me to pay the electricity bill on the 15th.,True,85
+21,remind,set a reminder for monday morning to email suresh,Set a reminder for Monday morning to email Suresh.,True,192
+22,remind,remind me at 7 30 to leave for the site,Remind me at 7.30 to leave for the site.,True,354
+23,remind,remind me tonight to take my medicine,Remind me tonight to take my medicine.,True,75
+24,remind,remind me every day at 9 to check mail,Remind me every day at 9 to check mail.,True,80
+25,remind,remind me in one hour to follow up with the client,Remind me in one hour to follow up with the client.,True,83
+26,remind,set a reminder to renew the insurance next week,Set a reminder to renew the insurance next week.,True,67
+27,remind,remind me on saturday to buy groceries,Remind me on Saturday to buy groceries.,True,93
+28,remind,remind me at half past four to join the meeting,Remind me at half past four to join the meeting.,True,97
+29,remind,remind me tomorrow evening to call mom,Remind me tomorrow evening to call mom.,True,60
+30,remind,remind me on the first of december about the tax filing,Remind me on 1 December about the tax filing.,True,96
+31,find,find the pepsico delay claim,Find the PepsiCo delay claim.,True,84
+32,find,find the file called ashoka delay claim,Find the file called Ashoka Delay Claim.,True,103
+33,find,search for the steel delivery letter,Search for the steel delivery letter.,True,81
+34,find,find my resume,Find my resume.,True,37
+35,find,find the contractor's letter about the extension,Find the contractors' letter about the extension.,True,70
+36,find,find the excel sheet with the site budget,Find the Excel sheet with the site budget.,True,75
+37,find,where is the hotel booking pdf,Where is the hotel booking PDF?,True,63
+38,find,find the photo of the aadhaar card,Find the photo of the odd hard card.,False,66
+39,find,find the presentation for the client meeting,Find the presentation for the client meeting.,True,56
+40,find,find last month's bank statement,Fine last month's bank statement.,True,72
+41,find,search for the bill of quantities,Search for the Bill of Quantities.,True,57
+42,find,find the drawing for the second floor,Find the drawing for the second floor.,True,61
+43,find,find the minutes of meeting from tuesday,Find the minutes of meeting from Tuesday.,True,60
+44,find,open the latest invoice from larsen and toubro,Open the latest invoice from Larsen and Toubro.,True,82
+45,find,find the notes about the variation order,Find the notes about the variation order.,True,53
+46,dictate,take a note the concrete pour is delayed by two days,Take a note the concrete pour is delayed by two days.,True,94
+47,dictate,note that the site inspection went well,Note that the site inspection went well.,True,90
+48,dictate,type please send the revised schedule by thursday,Type please send the revised schedule by Thursday.,True,94
+49,dictate,save a note call the architect about the facade,Save a note called the architect about the facade.,True,86
+50,dictate,write the payment for the third bill is still pending,Right the payment for the third bill is still pending.,True,90

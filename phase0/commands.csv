@@ -1,0 +1,51 @@
+id,kind,text,slots
+1,open,open chrome,chrome
+2,open,open excel,excel
+3,open,open word,word
+4,open,launch whatsapp,whatsapp
+5,open,open primavera,primavera
+6,open,start notepad,notepad
+7,open,open file explorer,file explorer
+8,open,open outlook,outlook
+9,open,can you open spotify,spotify
+10,open,open the calculator,calculator
+11,open,open settings,settings
+12,open,open teams,teams
+13,open,open powerpoint,powerpoint
+14,open,launch autocad,autocad
+15,open,open google maps,maps
+16,remind,remind me to call the contractor at 5,call|contractor|5
+17,remind,remind me to send the invoice tomorrow at 10 am,invoice|tomorrow|10
+18,remind,set a reminder for next friday at 5 pm,next friday|5
+19,remind,remind me in 20 minutes to check the oven,20 minutes|oven
+20,remind,remind me to pay the electricity bill on the 15th,electricity|bill|15th
+21,remind,set a reminder for monday morning to email suresh,monday|suresh
+22,remind,remind me at 7 30 to leave for the site,7 30|site
+23,remind,remind me tonight to take my medicine,tonight|medicine
+24,remind,remind me every day at 9 to check mail,every day|9|mail
+25,remind,remind me in one hour to follow up with the client,one hour|client
+26,remind,set a reminder to renew the insurance next week,renew|insurance|next week
+27,remind,remind me on saturday to buy groceries,saturday|groceries
+28,remind,remind me at half past four to join the meeting,half past four|meeting
+29,remind,remind me tomorrow evening to call mom,tomorrow|evening|mom
+30,remind,remind me on the first of december about the tax filing,first of december|tax
+31,find,find the pepsico delay claim,pepsico|delay|claim
+32,find,find the file called ashoka delay claim,ashoka|delay|claim
+33,find,search for the steel delivery letter,steel|delivery|letter
+34,find,find my resume,resume
+35,find,find the contractor's letter about the extension,contractor|extension
+36,find,find the excel sheet with the site budget,site budget
+37,find,where is the hotel booking pdf,hotel|booking
+38,find,find the photo of the aadhaar card,aadhaar
+39,find,find the presentation for the client meeting,presentation|client
+40,find,find last month's bank statement,bank statement
+41,find,search for the bill of quantities,bill of quantities
+42,find,find the drawing for the second floor,drawing|second floor
+43,find,find the minutes of meeting from tuesday,minutes|tuesday
+44,find,open the latest invoice from larsen and toubro,invoice|larsen
+45,find,find the notes about the variation order,variation order
+46,dictate,take a note the concrete pour is delayed by two days,concrete|delayed|two days
+47,dictate,note that the site inspection went well,site inspection
+48,dictate,type please send the revised schedule by thursday,revised schedule|thursday
+49,dictate,save a note call the architect about the facade,architect|facade
+50,dictate,write the payment for the third bill is still pending,payment|third bill|pending

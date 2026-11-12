@@ -1,0 +1,5 @@
+.venv/
+models/
+__pycache__/
+*.log
+synth_af/[0-9]*.wav
